@@ -1,4 +1,4 @@
-package Java알고리즘1주차;
+package Java알고리즘1주차.day1;
 
 import java.util.Scanner;
 
