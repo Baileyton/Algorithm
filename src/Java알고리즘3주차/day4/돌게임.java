@@ -21,7 +21,6 @@ public class 돌게임 {
     }
 
     public static boolean dp(int n) {
-        dp[0] = false;
         dp[1] = true;
         dp[2] = false;
         dp[3] = true;
