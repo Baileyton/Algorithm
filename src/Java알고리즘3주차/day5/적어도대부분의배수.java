@@ -7,6 +7,8 @@ import java.util.StringTokenizer;
 
 /*
     메모리:15824kb 시간:152ms
+    주어진 다섯 숫자 중 적어도 세 개로 나누어지는 가장 작은 수를 찾는 문제
+    1부터 시작하여 각 숫자로 나누어지는 횟수를 세고, 그 횟수가 세 번 이상일 때 해당 숫자를 출력
 */
 public class 적어도대부분의배수 {
     public static void main(String[] args) throws IOException {
