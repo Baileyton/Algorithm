@@ -1,13 +1,14 @@
-package Java알고리즘1주차.day1;
+package 백준.실버.V;
 
 import java.util.Scanner;
 
 /*
+    메모리:18396kb 시간:232ms
     지그재그식으로 순회하는데
     홀수 대각선 일때 ↗ 오른쪽 위 방향
     짝수 대각선 일때 ↙ 왼쪽 아래 방향
  */
-public class 분수찾기1193 {
+public class Q1193_분수찾기 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
