@@ -1,4 +1,4 @@
-package Java알고리즘2주차.day5;
+package 백준.실버.II;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,10 +6,10 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 /*
-    메모리:kb 시간:ms
+    메모리:277068kb 시간:1240ms
 
  */
-public class 특정거리의도시찾기 {
+public class Q18352_특정거리의도시찾기 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
